@@ -1,0 +1,9 @@
+version 0.5.0c 18-08-2003 Changed: Rewrote readme, repackaged for release
+                                   (once more!)
+version 0.5.0b 31-03-2003 Changed: Some cosmetics, prepare for release
+
+version 0.5.0a 30-07-2002 Fixed: Some 'say' instructions were missing in the
+                                 created REXX scripts...
+
+version 0.5.0  04-03-2002 Hello world! I am here!
+

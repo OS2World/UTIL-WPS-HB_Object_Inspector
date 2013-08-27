@@ -1,0 +1,11 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: HBInspect.VRX
+MacroPath: VRM:E:\Dev\REXX\VXREXX\Projects\HBInspect
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,467,1747,903,7618
+VRXWindow: __VRESectionListWindow,1,3216,8986,5691,3342
+VRXWindow: __VREToolsWindow,1,467,60,7996,1666
+UserFile: 1
+UserWindow: HBInspectMain,1
